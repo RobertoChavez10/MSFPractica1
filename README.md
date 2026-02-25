@@ -1,10 +1,10 @@
-\[!\[Open in MATLAB Online]
+
 
 # Práctica 1: Diseño de controladores
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Chávez González Roberto \[22210884]; l22210884@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
