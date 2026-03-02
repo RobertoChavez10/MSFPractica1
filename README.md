@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de la estudiante
+## Información del estudiante
 
 Chávez González Roberto \[22210884]; l22210884@tijuana.tecnm.mx
 
